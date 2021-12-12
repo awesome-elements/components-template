@@ -2,7 +2,7 @@
 
 # Awesome-Elmenets
 This is a template project. To use this template, follow below steps:
-1. Replace package name, description, repository in `package.json`.
+1. Replace package name, description, and repository in `package.json`.
 1. Remove `my-component` component and associating utils.
 1. Generate the componenets with prefix of `awesome-` by using `npm run generate`.
 1. Replace `my-component` with the new-created component in `index.html`.
